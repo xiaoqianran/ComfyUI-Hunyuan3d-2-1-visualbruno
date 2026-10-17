@@ -101,7 +101,7 @@
     },
     {
       "id": 10,
-      "type": "Hy3DMeshGenerator",
+      "type": "Hy3D21MeshGenerator",
       "pos": [
         -694.09765625,
         818.04541015625
@@ -132,7 +132,7 @@
       "properties": {
         "aux_id": "visualbruno/ComfyUI-Hunyuan3d-2-1",
         "ver": "e439689e4b67fb2af5f487ee26ef3a710be92658",
-        "Node name for S&R": "Hy3DMeshGenerator",
+        "Node name for S&R": "Hy3D21MeshGenerator",
         "widget_ue_connectable": {}
       },
       "widgets_values": [
