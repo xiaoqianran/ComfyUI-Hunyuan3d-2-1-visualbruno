@@ -250,7 +250,7 @@
     },
     {
       "id": 37,
-      "type": "Hy3DMeshGenerator",
+      "type": "Hy3D21MeshGenerator",
       "pos": [
         -764.5154418945312,
         864.698486328125
@@ -281,7 +281,7 @@
       "properties": {
         "aux_id": "visualbruno/ComfyUI-Hunyuan3d-2-1",
         "ver": "f82cfc7e7198169fd39b4ffee510ef34ce842076",
-        "Node name for S&R": "Hy3DMeshGenerator",
+        "Node name for S&R": "Hy3D21MeshGenerator",
         "widget_ue_connectable": {}
       },
       "widgets_values": [
@@ -289,7 +289,8 @@
         25,
         7.5,
         42209680139746,
-        "randomize"
+        "randomize",
+        "sdpa"
       ]
     },
     {
